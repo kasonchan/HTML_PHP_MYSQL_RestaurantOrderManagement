@@ -11,5 +11,23 @@ This project also includes the software engineering procedures:
   Part 5: Update SRS, class diagram, use cases and implementation after
           customer requests. 
 
+Reset the number of tables
+http://students.cse.unt.edu/~kc0284/CustomerInterface/ResetNewTableStatus.php
+
+Kitchenstaff Interface
+http://students.cse.unt.edu/~ss0789/kitchen/mainpage.html
+Waitstaff Interface
+http://students.cse.unt.edu/~kmh0237/Wait-Staff/wait-staff.php
+
+Customer Tablet Assignment
+http://students.cse.unt.edu/~kc0284/CustomerInterface/TabletAssignments.php
+After tablet assignments it will auto redirect to this link:
+Instore Customer Interface
+http://students.cse.unt.edu/~kc0284/CustomerInterface/CustomerHomepage.php
+
+Without tablet assignment, the link becomes:
+Online Customer Interface
+http://students.cse.unt.edu/~kc0284/CustomerInterface/CustomerHomepage.php
+
 Many thanks to my teammates Suraj Shrestha, Kelly Wu, John Kizhakeparampil
 and Kevin Holmes for their invaluable contributions to this project.
