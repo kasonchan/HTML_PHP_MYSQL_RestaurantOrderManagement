@@ -1,0 +1,111 @@
+.cookie
+{
+	background-image: url("cookie.jpg");
+}
+
+.PageContainer
+{
+	/*border: 1px solid;*/
+	padding: 2% 2%;
+	margin: auto;
+
+	position:absolute;
+    right: 10%;
+    left: 10%;
+}
+
+.Bold
+{
+	font-family: 'Arial';
+	font-weight: bold;
+	font-size: 200%;
+	margin: auto;
+}
+
+.TitleContainer
+{
+	/*border: 1px solid;*/
+	/*padding: 10px 10px;*/
+	margin: auto;
+	width: 100%;
+}
+
+.ContentContainer
+{
+	padding: 20px 20px;
+	margin: auto;
+	width: 100%;
+	border: 5px solid #6698FF;
+	border-radius: 20px;
+}
+
+.Table
+{
+	margin: auto;
+	text-align: center;
+}
+
+.FunctionsNavigation
+{
+	border: 5px solid #6698FF;
+	border-radius: 20px;
+
+	position: absolute;
+	top: -1px;
+	right: -50px;
+	background-color: white;
+	width: 25%;
+	height: 85%;
+	margin: auto;
+	height: 100%;
+
+	padding: 2% 2%;
+}
+
+.frame
+{
+	border: 5px solid #6698FF;
+	width: 70%;
+	margin: auto;
+	height: 280px;
+
+}
+
+.Button
+{
+	/** Background and border setting */
+	border: 5px solid #6A287E;
+	border-radius: 20px;
+	background-color: #6698FF; 
+	padding: 3% 3%; /** 1st % is height, 2nd % is width */ 
+
+	/** Font setting */
+	font-size: 100%;
+	font-family: 'Arial';
+	color: white;
+	margin: auto;
+}
+
+.NormalButton
+{
+	/** Background and border setting */
+	border: 5px solid #6A287E;
+	border-radius: 20px;
+	background-color: #6698FF; 
+	padding: 3% 3%; /** 1st % is height, 2nd % is width */ 
+
+	/** Font setting */
+	font-size: 50%;
+	font-family: 'Arial';
+	color: white;
+	margin: auto;
+}
+
+.NormalFont
+{
+	font-size: 150%;
+
+	font-family: 'Arial';
+	color: #6698FF;
+}
+
