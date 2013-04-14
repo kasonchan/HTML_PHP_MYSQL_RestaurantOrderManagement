@@ -3,7 +3,7 @@ wait staff for a sandwich restaurant.
 
 This project is build with PHP and uses MySQL as its database back-end.
 
-This project also includes the software engineering procedures:
+This project also includes the software engineering procedures http://sdrv.ms/116emOk:
   Part 1: Create SRS, class diagram, use cases;
   Part 2: Create user guide;
   Part 3: Create validation tests;
