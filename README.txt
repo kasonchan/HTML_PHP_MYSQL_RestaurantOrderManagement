@@ -1,7 +1,7 @@
 This project is a web-based system that will potentially reduce the load on 
 wait staff for a sandwich restaurant.
 
-This project is build with PHP and uses MySQL as its database back-end.
+This project is build with HTML, PHP and uses MySQL as its database back-end.
 
 This project also includes the software engineering procedures http://sdrv.ms/116emOk:
   Part 1: Create SRS, class diagram, use cases;
